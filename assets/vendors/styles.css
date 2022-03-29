@@ -1,0 +1,17 @@
+.color-black{
+    color: black !important;
+}
+
+.help-block {
+    color: red;
+}
+
+.white{
+    color: rgb(255, 255, 255) !important;
+}
+
+.col-neg{
+    color: black !important;
+    font-weight: bold;
+    font-size: unset;
+}
